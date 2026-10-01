@@ -1,0 +1,109 @@
+    1  pwd
+    2  ls
+    3  cd Desktop
+    4  ls-a
+    5  ls -a
+    6  la -l
+    7  ls -l
+    8  mkdir coding-cafe
+    9  cd coding-cafe
+   10  mkdir week01
+   11  cd week01
+   12  cd ..
+   13  mkdirweek02
+   14  mkdir week02
+   15  cd week02
+   16  touch notes.md
+   17  code notes.md
+   18  pwd
+   19  ls -R coding-cafe
+   20  ls coding-cafe/week02
+   21  ls
+   22  cd Desktop
+   23  ls
+   24  ls -a
+   25  ls -l
+   26  cd Desktop
+   27  ls coding-cafe/week02
+   28  cd coding-cafe
+   29  ls coding-cafe/week02
+   30  cd ~
+   31  ls coding-cafe/week02
+   32  coding-cafe/week02
+   33  cd ~
+   34  pwd
+   35  cd Desktop
+   36  cd ~
+   37  pwd
+   38  ls
+   39  ls ~
+   40  exit
+   41  cd ~
+   42  cd Desktop
+   43  mkdir coding-cafe
+   44  cd coding-cafe
+   45  mkdir week01
+   46  pwd
+   47  cd week01
+   48  cd ..
+   49  pwd
+   50  mkdir week02
+   51  cd
+   52  cd week02
+   53  cd coding-cafe
+   54  ls
+   55  cd week02
+   56  touch notes.md
+   57  code notes.md
+   58  cd ~
+   59  ls coding-cafe/week02
+   60  pwd
+   61  cd coding-cafe
+   62  touch README.md
+   63  ls
+   64  ls -R coding-cafe
+   65  cd ~
+   66  ls -R coding-cafe
+   67  cp README.md README-backup.md
+   68  cd coding-cafe
+   69  cp README.md README-backup.md
+   70  mv README-backup.md week01/
+   71  cd week01
+   72  mv README-backup.md old-readme.md
+   73  ls
+   74  cd ../week02
+   75  ls
+   76  cd ../week01
+   77  rm old-readme.md
+   78  ls
+   79  echo $PATH
+   80  which python3
+   81  which pip
+   82  which ls
+   83  pyton3
+   84  cd ~/coding-cafe
+   85  python3 -m venv .venv
+   86  apt install python3.14-venv
+   87  cd ~/coding-cafe
+   88  python3 -m venv .venv
+   89  python3 -m venv .venv 
+   90  ls
+   91  ls -a
+   92  code notes.md
+   93  source .venv/bin/activate
+   94  which python3
+   95  pip list
+   96  pip install requests
+   97  pip list
+   98  deactivate
+   99  which python3
+  100  man ls
+  101  man man
+  102  cd cod
+  103  cd cod 
+  104  cd cod
+  105  history
+  106  python3
+  107  history > week02/lab01-log.txt
+  108  pwd
+  109  history > week02/lab01-log.txt 
